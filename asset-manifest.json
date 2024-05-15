@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/demo-spa-react/static/css/main.87435b9c.css",
-    "main.js": "/demo-spa-react/static/js/main.3df4dca7.js",
-    "static/js/787.dcbf6cf4.chunk.js": "/demo-spa-react/static/js/787.dcbf6cf4.chunk.js",
+    "main.css": "/demo-spa-react/static/css/main.fcc3411e.css",
+    "main.js": "/demo-spa-react/static/js/main.f7f3ac22.js",
+    "static/js/787.4d5d01d1.chunk.js": "/demo-spa-react/static/js/787.4d5d01d1.chunk.js",
     "index.html": "/demo-spa-react/index.html",
-    "main.87435b9c.css.map": "/demo-spa-react/static/css/main.87435b9c.css.map",
-    "main.3df4dca7.js.map": "/demo-spa-react/static/js/main.3df4dca7.js.map",
-    "787.dcbf6cf4.chunk.js.map": "/demo-spa-react/static/js/787.dcbf6cf4.chunk.js.map"
+    "main.fcc3411e.css.map": "/demo-spa-react/static/css/main.fcc3411e.css.map",
+    "main.f7f3ac22.js.map": "/demo-spa-react/static/js/main.f7f3ac22.js.map",
+    "787.4d5d01d1.chunk.js.map": "/demo-spa-react/static/js/787.4d5d01d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87435b9c.css",
-    "static/js/main.3df4dca7.js"
+    "static/css/main.fcc3411e.css",
+    "static/js/main.f7f3ac22.js"
   ]
 }
